@@ -1,9 +1,6 @@
 # Certificate Generator
-
-![Output Video](outputvideo.gif)
-
 A simple web-based Certificate Generator that allows users to upload an Excel file and generate certificates.
-
+![Output Video](outputvideo.gif)
 ## Features
 
 - Clean and modern UI with a beautiful background.
