@@ -1,5 +1,7 @@
 # Certificate Generator
 
+![Output Video](outputvideo.gif)
+
 A simple web-based Certificate Generator that allows users to upload an Excel file and generate certificates.
 
 ## Features
@@ -21,8 +23,10 @@ Ensure you have the following dependencies installed:
 
 ## Installation
 
-#### just copy and paste the folder after downloading the whole project as a zip file and if its a pull request do as needed(just download the complete project thats easy..)
+#### Just copy and paste the folder after downloading the whole project as a zip file. If it's a pull request, do as needed (just download the complete project; that's easy).
 
 ## How to Run?
-#### installing the requirements is a must download it first then you can just run the app.py file and get on to the local host production server .Yes its a python flask app since the command link v erson wil llook little grumpy i thought of changing it to flask as a back end .Also make sure that the excel sheet consist of 2 columns the Name and Rank.please use this accordingly and make changes to your self.If you want to use another template feel free to use canva . 
-### Thankyou have a nice day!!
+
+#### Installing the requirements is a must. Download it first, then you can just run the `app.py` file and get on to the local host production server. Yes, it's a Python Flask app since the command line version will look a little grumpy; I thought of changing it to Flask as a backend. Also, make sure that the Excel sheet consists of 2 columns: the Name and Rank. Please use this accordingly and make changes as needed. If you want to use another template, feel free to use Canva.
+
+### Thank you, have a nice day!!
